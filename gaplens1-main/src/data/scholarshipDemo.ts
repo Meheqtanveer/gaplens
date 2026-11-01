@@ -1,0 +1,3 @@
+import { SCHOLARSHIP_EXAMPLE } from './examples';
+
+export const SCHOLARSHIP_DEMO_DATA = SCHOLARSHIP_EXAMPLE;

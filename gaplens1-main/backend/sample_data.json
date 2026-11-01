@@ -1,0 +1,24 @@
+{
+  "benchmarks": {
+    "education": {
+      "scenario": "Education: Scholarship Advertisement Diligence",
+      "research_goal": "What should I verify before applying for this scholarship advertisement?",
+      "domain": "education"
+    },
+    "banking_and_finance": {
+      "scenario": "Banking & Finance: Personal Loan Advertisement",
+      "research_goal": "What should I verify before accepting this 5.9% personal loan advertisement?",
+      "domain": "banking_and_finance"
+    },
+    "employment_and_jobs": {
+      "scenario": "Employment: Senior AI Engineer Job Ad & Offer",
+      "research_goal": "What should I verify before accepting this Senior AI Engineer job advertisement and offer?",
+      "domain": "employment_and_jobs"
+    },
+    "insurance": {
+      "scenario": "Insurance: Health Policy Advertisement & Wordings",
+      "research_goal": "What should I verify before buying this health and critical illness insurance policy advertisement?",
+      "domain": "insurance"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "GAPLENS - Decision Blind-Spot Detector",
+  "description": "AI-assisted information gap detection platform that identifies missing, conflicting, outdated, or uncertain facts before you make critical decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
